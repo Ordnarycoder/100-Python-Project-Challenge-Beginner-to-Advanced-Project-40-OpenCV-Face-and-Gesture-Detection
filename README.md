@@ -1,0 +1,1 @@
+Opencv project that counts fingers and puts blue rectangle around face.
